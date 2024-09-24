@@ -37,3 +37,10 @@ docker images
 
 #
 docker push ferstrom/prueba
+
+
+# checar como hacer esto.. 
+volume
+
+# Tarea:
+generar un archivo y que se guarde en una carpeta para que se puedan subir los pdf, etc pero que el volumen sea de manera local.
